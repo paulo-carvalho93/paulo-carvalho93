@@ -6,7 +6,7 @@ Hi, I'm Paulo Carvalho, a self-taught passionate about technology Full Stack Dev
 
 - 🔭 I’m currently working at [Kestraa](https://www.kestraa.com/) as a Front-end Developer 
 - 🌱 I’m currently learning React Native & Typescript
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/paulo-carvalho-56b418a4/)
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/paulo-carvalho93)
 - ⚡ Fun fact: I have a dream to work and live abroad!
 
 **Languages and Tools:**  
