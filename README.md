@@ -4,10 +4,6 @@
 
 Hi, I'm Paulo Carvalho, a self-taught passionate about technology Front-end Developer from Brazil.
 
-- 🔭 I’m currently working at [Kestraa](https://www.kestraa.com.br/) as a Front-end Developer 
-- 🌱 Learning React Native right now o/
-- ⚡ Fun fact: I have a dream to work and live abroad!
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Paulo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
